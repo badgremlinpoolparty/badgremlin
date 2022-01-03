@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xda6817AC64eAD09D621D551f720245b5F4f7e6c2",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xda6817AC64eAD09D621D551f720245b5F4f7e6c2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bad Gremlin Pool Party",
+  "SYMBOL": "BGPP",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bad-gremlin-pool-party",
+  "SHOW_BACKGROUND": true
+}
